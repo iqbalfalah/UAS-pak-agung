@@ -1,16 +1,16 @@
 # UAS-pak-agung
 
-**Nama : MUHAMAD IQBAL FALAH
+**Nama : MUHAMAD IQBAL FALAH**
 
-**NIM : 311810213
+**NIM : 311810213**
 
-**Kelas : TI.18.A.3
+**Kelas : TI.18.A.3**
 
 Assalamualaikum wr wb
 
-**Buatlah Aplikasi CRUD sederhana dengan ketentuan :
+**Buatlah Aplikasi CRUD sederhana dengan ketentuan :**
 
-**Halaman HTML dan CSS bedasarkan mockup desain yang telah anda buat pada soal UTS.
+**Halaman HTML dan CSS bedasarkan mockup desain yang telah anda buat pada soal UTS.**
 
 1. fungsi pencarian pada list datanya.
 
@@ -21,19 +21,19 @@ Tema Desain Web:
 
 Ganjil
 
-**Kerjakan
+**Kerjakan**
 
 Hasil Pekerjaan submit pada repository github masing-masing, sertakan screenshoot
 
 Publikasikan / Unggah pada Hosting
 
-**A. MockUp Crud Sederhana
+**A. MockUp Crud Sederhana**
 
 ![2](https://user-images.githubusercontent.com/46512186/87128164-5c35f600-c2b9-11ea-898a-0ed0b9b3b87a.png)
 
 ![3](https://user-images.githubusercontent.com/46512186/87128251-85568680-c2b9-11ea-9638-3fd57b705751.png)
 
-**B. Codingan Index.php
+**B. Codingan Index.php**
 
 ![4](https://user-images.githubusercontent.com/46512186/87129421-81c3ff00-c2bb-11ea-8db8-d176ea7ad752.png)
 
@@ -45,7 +45,7 @@ Publikasikan / Unggah pada Hosting
 
 ![5](https://user-images.githubusercontent.com/46512186/87129526-aae48f80-c2bb-11ea-9849-efe8bd48fa2b.png)
 
-**D. MySql
+**D. MySql**
 
 ![1](https://user-images.githubusercontent.com/46512186/87127951-07927b00-c2b9-11ea-940d-0edc287662fd.png)
 

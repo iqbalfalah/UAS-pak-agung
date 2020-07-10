@@ -33,9 +33,11 @@ Publikasikan / Unggah pada Hosting
 
 ![3](https://user-images.githubusercontent.com/46512186/87128251-85568680-c2b9-11ea-9638-3fd57b705751.png)
 
-**B. Codingan Index.php**
+**B. Codingan Koneksi.php**
 
 ![4](https://user-images.githubusercontent.com/46512186/87129421-81c3ff00-c2bb-11ea-8db8-d176ea7ad752.png)
+
+**B. Codingan Index.php**
 
 ![6](https://user-images.githubusercontent.com/46512186/87129457-8ee0ee00-c2bb-11ea-80b7-aa4ddef98c2e.png)
 

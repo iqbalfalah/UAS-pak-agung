@@ -37,7 +37,9 @@ Publikasikan / Unggah pada Hosting
 
 ![4](https://user-images.githubusercontent.com/46512186/87129421-81c3ff00-c2bb-11ea-8db8-d176ea7ad752.png)
 
-**B. Codingan Index.php**
+**C. Codingan Index.php**
+
+![5](https://user-images.githubusercontent.com/46512186/87129526-aae48f80-c2bb-11ea-9849-efe8bd48fa2b.png)
 
 ![6](https://user-images.githubusercontent.com/46512186/87129457-8ee0ee00-c2bb-11ea-80b7-aa4ddef98c2e.png)
 
@@ -45,7 +47,6 @@ Publikasikan / Unggah pada Hosting
 
 ![8](https://user-images.githubusercontent.com/46512186/87129487-9dc7a080-c2bb-11ea-8f81-62bc8f3ca741.png)
 
-![5](https://user-images.githubusercontent.com/46512186/87129526-aae48f80-c2bb-11ea-9849-efe8bd48fa2b.png)
 
 **D. MySql**
 

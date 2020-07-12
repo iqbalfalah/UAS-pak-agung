@@ -6,6 +6,11 @@
 
 **Kelas : TI.18.A.3**
 
+
+**situs web hasil hosting(ganjil) dibawah ini:**
+
+**link url:http://lukananakit.epizy.com/**
+
 Assalamualaikum wr wb
 
 **Buatlah Aplikasi CRUD sederhana dengan ketentuan :**

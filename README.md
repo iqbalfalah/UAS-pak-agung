@@ -29,6 +29,13 @@ Publikasikan / Unggah pada Hosting
 
 **A. MockUp Crud Sederhana**
 
+**1. Halaman HTML dan CSS bedasarkan mockup desain yang telah anda buat pada soal UTS.**
+
+
+![iqbalku](https://user-images.githubusercontent.com/46512186/87241011-91cf0200-c3d3-11ea-8b49-dd43324c0822.png)
+
+**2. fungsi pencarian pada list datanya dan Fungsi paging pada list datanya.**
+
 ![2](https://user-images.githubusercontent.com/46512186/87128164-5c35f600-c2b9-11ea-898a-0ed0b9b3b87a.png)
 
 ![3](https://user-images.githubusercontent.com/46512186/87128251-85568680-c2b9-11ea-9638-3fd57b705751.png)
